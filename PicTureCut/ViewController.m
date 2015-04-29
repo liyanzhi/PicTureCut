@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    // 我刚刚修改了东西 asdf,asdfafdasf asdfh
     // Do any additional setup after loading the view, typically from a nib.
 }
 
